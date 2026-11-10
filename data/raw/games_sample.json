@@ -1,0 +1,50 @@
+[
+  {
+    "appid": 620,
+    "name": "Portal 2",
+    "release_date": "18 Apr, 2011",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "price": "9,69€",
+    "total_reviews": 433510,
+    "total_positive": 427835,
+    "total_negative": 5675,
+    "review_score_desc": "99% positive"
+  },
+  {
+    "appid": 105600,
+    "name": "Terraria",
+    "release_date": "16 May, 2011",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "price": "9,75€",
+    "total_reviews": 1409473,
+    "total_positive": 1373979,
+    "total_negative": 35494,
+    "review_score_desc": "97% positive"
+  },
+  {
+    "appid": 367520,
+    "name": "Hollow Knight",
+    "release_date": "24 Feb, 2017",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": "CDN$ 19.49",
+    "total_reviews": 415946,
+    "total_positive": 403641,
+    "total_negative": 12305,
+    "review_score_desc": "97% positive"
+  }
+]

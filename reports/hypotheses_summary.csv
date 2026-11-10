@@ -1,0 +1,4 @@
+"hypothesis","test","statistic","p_value","decision"
+"H1: мультиплеер -> log1p(reviews)","Mann-Whitney (wilcox.test)",19499,1.03384875560025e-06,"H0 отвергается"
+"H2: бесплатность <-> мультиплеер","Chi-squared (chisq.test)",21.3432634693704,3.83967606574717e-06,"H0 отвергается"
+"H3: цена ~ жанр (Action/RPG/Strategy)","Kruskal-Wallis (kruskal.test)",2.28375459612145,0.319219189395148,"H0 не отвергается"
